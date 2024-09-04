@@ -1,2 +1,2 @@
-# ECET430
+# Project
 Repository of Electronic Design Projects/Assignments
